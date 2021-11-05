@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="IndexController_test" file="C:\xampp\htdocs\codeigniter-todolist\application\tests\controllers\IndexController_test.php" tests="1" assertions="1" errors="0" warnings="0" failures="0" skipped="0" time="0.020270">
+    <testcase name="test_index" class="IndexController_test" classname="IndexController_test" file="C:\xampp\htdocs\codeigniter-todolist\application\tests\controllers\IndexController_test.php" line="4" assertions="1" time="0.020270"/>
+  </testsuite>
+</testsuites>
